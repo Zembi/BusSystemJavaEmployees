@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<username>Zembilas</username>
+		<name>Billy Zembilas</name>
+		<password>power123</password>
+		<role>admin</role>
+	</user>
+	<user>
+		<username>Fotisios</username>
+		<name>Fotis Iosifidis</name>
+		<password>123power</password>
+		<role>employee</role>
+	</user>
+</users>
