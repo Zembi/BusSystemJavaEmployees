@@ -1,2 +1,3 @@
 # BusSystemJavaEmployees
-Bus system management java app
+Part 1 of BusSite/ unfinished Project.
+Bus system management java app.
